@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "deploy": "^1.0.3",
+    "lambda": "^0.10.3",
+    "netlify": "^13.1.21"
+  }
+}
